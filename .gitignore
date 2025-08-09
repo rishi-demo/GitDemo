@@ -3,3 +3,5 @@
 
 # Ignore the log folder
 log/
+*.bak
+*~
